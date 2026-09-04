@@ -59,9 +59,9 @@ for poule in POULES:
             role = "play"
             match_type = "Match"
         elif TARGET_TEAM in scheids:
-            event_title = f"{thuis} vs {gast} (Referee)"
+            event_title = f"{TARGET_TEAM} vs {thuis} & {gast} (Referee)"
             role = "referee"
-            match_type = "Referee"
+            match_type = "Match"
         else:
             continue
             
