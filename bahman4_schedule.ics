@@ -41,9 +41,9 @@ BEGIN:VEVENT
 SUMMARY:VC Bravo 3 vs ABC Volleybal 5 (Referee)
 DTSTART;TZID=Europe/Amsterdam:20261026T200000
 DTEND;TZID=Europe/Amsterdam:20261026T223000
-CATEGORIES:Event
+CATEGORIES:Referee
 DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
- Heerkensdreef 29\, Valkenswaard\nMatch Type: Event\nRole: Referee Duty
+ Heerkensdreef 29\, Valkenswaard\nMatch Type: Referee\nRole: Referee Duty
 LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
 END:VEVENT
 BEGIN:VEVENT
@@ -77,9 +77,9 @@ BEGIN:VEVENT
 SUMMARY:VC Bravo 2 vs VVC Best 3 (Referee)
 DTSTART;TZID=Europe/Amsterdam:20261123T200000
 DTEND;TZID=Europe/Amsterdam:20261123T223000
-CATEGORIES:Event
+CATEGORIES:Referee
 DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
- Heerkensdreef 29\, Valkenswaard\nMatch Type: Event\nRole: Referee Duty
+ Heerkensdreef 29\, Valkenswaard\nMatch Type: Referee\nRole: Referee Duty
 LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
 END:VEVENT
 BEGIN:VEVENT
@@ -104,9 +104,9 @@ BEGIN:VEVENT
 SUMMARY:VC Bravo 2 vs MVC de Hangar 4 (Referee)
 DTSTART;TZID=Europe/Amsterdam:20270111T200000
 DTEND;TZID=Europe/Amsterdam:20270111T223000
-CATEGORIES:Event
+CATEGORIES:Referee
 DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
- Heerkensdreef 29\, Valkenswaard\nMatch Type: Event\nRole: Referee Duty
+ Heerkensdreef 29\, Valkenswaard\nMatch Type: Referee\nRole: Referee Duty
 LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
 END:VEVENT
 BEGIN:VEVENT
@@ -131,18 +131,18 @@ BEGIN:VEVENT
 SUMMARY:VC Bravo 3 vs VC Bravo 2 (Referee)
 DTSTART;TZID=Europe/Amsterdam:20270121T203000
 DTEND;TZID=Europe/Amsterdam:20270121T230000
-CATEGORIES:Event
+CATEGORIES:Referee
 DESCRIPTION:Match starts at 21:00\nLocation: Sporthal De Pracht\, De Prach
- t 3\, Waalre\nMatch Type: Event\nRole: Referee Duty
+ t 3\, Waalre\nMatch Type: Referee\nRole: Referee Duty
 LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VC Bravo 3 vs VVC Best 3 (Referee)
 DTSTART;TZID=Europe/Amsterdam:20270201T200000
 DTEND;TZID=Europe/Amsterdam:20270201T223000
-CATEGORIES:Event
+CATEGORIES:Referee
 DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
- Heerkensdreef 29\, Valkenswaard\nMatch Type: Event\nRole: Referee Duty
+ Heerkensdreef 29\, Valkenswaard\nMatch Type: Referee\nRole: Referee Duty
 LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
 END:VEVENT
 BEGIN:VEVENT
@@ -158,9 +158,9 @@ BEGIN:VEVENT
 SUMMARY:VVC Best 3 vs MVC de Hangar 4 (Referee)
 DTSTART;TZID=Europe/Amsterdam:20270215T203000
 DTEND;TZID=Europe/Amsterdam:20270215T230000
-CATEGORIES:Event
+CATEGORIES:Referee
 DESCRIPTION:Match starts at 21:00\nLocation: Sporthal Naestenbest\, Pr. Be
- atrixlaan 27\, Best\nMatch Type: Event\nRole: Referee Duty
+ atrixlaan 27\, Best\nMatch Type: Referee\nRole: Referee Duty
 LOCATION:Sporthal Naestenbest\, Pr. Beatrixlaan 27\, Best
 END:VEVENT
 BEGIN:VEVENT
@@ -176,9 +176,9 @@ BEGIN:VEVENT
 SUMMARY:VC Bravo 2 vs VML/Drukkerij VGA 1 (Referee)
 DTSTART;TZID=Europe/Amsterdam:20270222T200000
 DTEND;TZID=Europe/Amsterdam:20270222T223000
-CATEGORIES:Event
+CATEGORIES:Referee
 DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
- Heerkensdreef 29\, Valkenswaard\nMatch Type: Event\nRole: Referee Duty
+ Heerkensdreef 29\, Valkenswaard\nMatch Type: Referee\nRole: Referee Duty
 LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
 END:VEVENT
 BEGIN:VEVENT
@@ -194,9 +194,9 @@ BEGIN:VEVENT
 SUMMARY:VC Primo 7 vs MVC de Hangar 4 (Referee)
 DTSTART;TZID=Europe/Amsterdam:20270315T193000
 DTEND;TZID=Europe/Amsterdam:20270315T220000
-CATEGORIES:Event
+CATEGORIES:Referee
 DESCRIPTION:Match starts at 20:00\nLocation: Sporthal Genderbeemd\, Sterke
- nburg 616\, Eindhoven\nMatch Type: Event\nRole: Referee Duty
+ nburg 616\, Eindhoven\nMatch Type: Referee\nRole: Referee Duty
 LOCATION:Sporthal Genderbeemd\, Sterkenburg 616\, Eindhoven
 END:VEVENT
 BEGIN:VEVENT
@@ -239,9 +239,9 @@ BEGIN:VEVENT
 SUMMARY:VC Primo 7 vs VV Tamar 6 (Referee)
 DTSTART;TZID=Europe/Amsterdam:20270408T210000
 DTEND;TZID=Europe/Amsterdam:20270408T233000
-CATEGORIES:Event
+CATEGORIES:Referee
 DESCRIPTION:Match starts at 21:30\nLocation: Sporthal Genderbeemd\, Sterke
- nburg 616\, Eindhoven\nMatch Type: Event\nRole: Referee Duty
+ nburg 616\, Eindhoven\nMatch Type: Referee\nRole: Referee Duty
 LOCATION:Sporthal Genderbeemd\, Sterkenburg 616\, Eindhoven
 END:VEVENT
 END:VCALENDAR
