@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VC Geldrop Schedule//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Match: Bahman 4 vs ABC Volleybal 5
+DTSTART;TZID=Europe/Amsterdam:20260922T200000
+DTEND;TZID=Europe/Amsterdam:20260922T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: VVC Best 3 vs Bahman 4
+DTSTART;TZID=Europe/Amsterdam:20260928T203000
+DTEND;TZID=Europe/Amsterdam:20260928T230000
+DESCRIPTION:Match starts at 21:00\nLocation: Sporthal Naestenbest\, Pr. Be
+ atrixlaan 27\, Best\nRole: Playing
+LOCATION:Sporthal Naestenbest\, Pr. Beatrixlaan 27\, Best
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: Bahman 4 vs MVC de Hangar 4
+DTSTART;TZID=Europe/Amsterdam:20261006T200000
+DTEND;TZID=Europe/Amsterdam:20261006T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: VC Bravo 2 vs Bahman 4
+DTSTART;TZID=Europe/Amsterdam:20261012T200000
+DTEND;TZID=Europe/Amsterdam:20261012T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
+ Heerkensdreef 29\, Valkenswaard\nRole: Playing
+LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Referee Duty: VC Bravo 3 vs ABC Volleybal 5
+DTSTART;TZID=Europe/Amsterdam:20261026T200000
+DTEND;TZID=Europe/Amsterdam:20261026T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
+ Heerkensdreef 29\, Valkenswaard\nRole: Referee Duty
+LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: Bahman 4 vs VC Bravo 3
+DTSTART;TZID=Europe/Amsterdam:20261103T200000
+DTEND;TZID=Europe/Amsterdam:20261103T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: VC Primo 7 vs Bahman 4
+DTSTART;TZID=Europe/Amsterdam:20261109T193000
+DTEND;TZID=Europe/Amsterdam:20261109T220000
+DESCRIPTION:Match starts at 20:00\nLocation: Sporthal Genderbeemd\, Sterke
+ nburg 616\, Eindhoven\nRole: Playing
+LOCATION:Sporthal Genderbeemd\, Sterkenburg 616\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: Bahman 4 vs VV Tamar 6
+DTSTART;TZID=Europe/Amsterdam:20261117T200000
+DTEND;TZID=Europe/Amsterdam:20261117T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Referee Duty: VC Bravo 2 vs VVC Best 3
+DTSTART;TZID=Europe/Amsterdam:20261123T200000
+DTEND;TZID=Europe/Amsterdam:20261123T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
+ Heerkensdreef 29\, Valkenswaard\nRole: Referee Duty
+LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: Bahman 4 vs VC Riethoven 2
+DTSTART;TZID=Europe/Amsterdam:20261124T200000
+DTEND;TZID=Europe/Amsterdam:20261124T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: VML/Drukkerij VGA 1 vs Bahman 4
+DTSTART;TZID=Europe/Amsterdam:20261130T203000
+DTEND;TZID=Europe/Amsterdam:20261130T230000
+DESCRIPTION:Match starts at 21:00\nLocation: Gymzaal de Barrier\, Barrierw
+ eg 1\, Eindhoven\nRole: Playing
+LOCATION:Gymzaal de Barrier\, Barrierweg 1\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Referee Duty: VC Bravo 2 vs MVC de Hangar 4
+DTSTART;TZID=Europe/Amsterdam:20270111T200000
+DTEND;TZID=Europe/Amsterdam:20270111T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
+ Heerkensdreef 29\, Valkenswaard\nRole: Referee Duty
+LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: ABC Volleybal 5 vs Bahman 4
+DTSTART;TZID=Europe/Amsterdam:20270112T203000
+DTEND;TZID=Europe/Amsterdam:20270112T230000
+DESCRIPTION:Match starts at 21:00\nLocation: Frits Philips Sporthal\, Avig
+ nonlaan 1\, Eindhoven\nRole: Playing
+LOCATION:Frits Philips Sporthal\, Avignonlaan 1\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: Bahman 4 vs VVC Best 3
+DTSTART;TZID=Europe/Amsterdam:20270119T200000
+DTEND;TZID=Europe/Amsterdam:20270119T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Referee Duty: VC Bravo 3 vs VC Bravo 2
+DTSTART;TZID=Europe/Amsterdam:20270121T203000
+DTEND;TZID=Europe/Amsterdam:20270121T230000
+DESCRIPTION:Match starts at 21:00\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nRole: Referee Duty
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Referee Duty: VC Bravo 3 vs VVC Best 3
+DTSTART;TZID=Europe/Amsterdam:20270201T200000
+DTEND;TZID=Europe/Amsterdam:20270201T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
+ Heerkensdreef 29\, Valkenswaard\nRole: Referee Duty
+LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: MVC de Hangar 4 vs Bahman 4
+DTSTART;TZID=Europe/Amsterdam:20270202T203000
+DTEND;TZID=Europe/Amsterdam:20270202T230000
+DESCRIPTION:Match starts at 21:00\nLocation: Sporthal Meerrijk de Hangar\,
+  Meerbos 4\, Eindhoven\nRole: Playing
+LOCATION:Sporthal Meerrijk de Hangar\, Meerbos 4\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Referee Duty: VVC Best 3 vs MVC de Hangar 4
+DTSTART;TZID=Europe/Amsterdam:20270215T203000
+DTEND;TZID=Europe/Amsterdam:20270215T230000
+DESCRIPTION:Match starts at 21:00\nLocation: Sporthal Naestenbest\, Pr. Be
+ atrixlaan 27\, Best\nRole: Referee Duty
+LOCATION:Sporthal Naestenbest\, Pr. Beatrixlaan 27\, Best
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: Bahman 4 vs VC Bravo 2
+DTSTART;TZID=Europe/Amsterdam:20270216T200000
+DTEND;TZID=Europe/Amsterdam:20270216T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Referee Duty: VC Bravo 2 vs VML/Drukkerij VGA 1
+DTSTART;TZID=Europe/Amsterdam:20270222T200000
+DTEND;TZID=Europe/Amsterdam:20270222T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
+ Heerkensdreef 29\, Valkenswaard\nRole: Referee Duty
+LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: Bahman 4 vs VC Primo 7
+DTSTART;TZID=Europe/Amsterdam:20270309T200000
+DTEND;TZID=Europe/Amsterdam:20270309T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Referee Duty: VC Primo 7 vs MVC de Hangar 4
+DTSTART;TZID=Europe/Amsterdam:20270315T193000
+DTEND;TZID=Europe/Amsterdam:20270315T220000
+DESCRIPTION:Match starts at 20:00\nLocation: Sporthal Genderbeemd\, Sterke
+ nburg 616\, Eindhoven\nRole: Referee Duty
+LOCATION:Sporthal Genderbeemd\, Sterkenburg 616\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: VC Riethoven 2 vs Bahman 4
+DTSTART;TZID=Europe/Amsterdam:20270316T200000
+DTEND;TZID=Europe/Amsterdam:20270316T223000
+DESCRIPTION:Match starts at 20:30\nLocation: De Kemphaan\, Vlasstraat 6\, 
+ Riethoven\nRole: Playing
+LOCATION:De Kemphaan\, Vlasstraat 6\, Riethoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: VV Tamar 6 vs Bahman 4
+DTSTART;TZID=Europe/Amsterdam:20270324T210000
+DTEND;TZID=Europe/Amsterdam:20270324T233000
+DESCRIPTION:Match starts at 21:30\nLocation: Tennishal Eindhoven Noord\, V
+ ijfkamplaan 10\, Eindhoven\nRole: Playing
+LOCATION:Tennishal Eindhoven Noord\, Vijfkamplaan 10\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: Bahman 4 vs VML/Drukkerij VGA 1
+DTSTART;TZID=Europe/Amsterdam:20270330T200000
+DTEND;TZID=Europe/Amsterdam:20270330T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Match: VC Bravo 3 vs Bahman 4
+DTSTART;TZID=Europe/Amsterdam:20270405T200000
+DTEND;TZID=Europe/Amsterdam:20270405T223000
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal de Wedert\, Pastoor 
+ Heerkensdreef 29\, Valkenswaard\nRole: Playing
+LOCATION:Sporthal de Wedert\, Pastoor Heerkensdreef 29\, Valkenswaard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Referee Duty: VC Primo 7 vs VV Tamar 6
+DTSTART;TZID=Europe/Amsterdam:20270408T210000
+DTEND;TZID=Europe/Amsterdam:20270408T233000
+DESCRIPTION:Match starts at 21:30\nLocation: Sporthal Genderbeemd\, Sterke
+ nburg 616\, Eindhoven\nRole: Referee Duty
+LOCATION:Sporthal Genderbeemd\, Sterkenburg 616\, Eindhoven
+END:VEVENT
+END:VCALENDAR
