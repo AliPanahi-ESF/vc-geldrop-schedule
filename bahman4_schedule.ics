@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//VC Geldrop Schedule//mxm.dk//
+PRODID:-//VC Geldrop Schedule Bahman 4//mxm.dk//
 BEGIN:VEVENT
 SUMMARY:Bahman 4 vs ABC Volleybal 5
 DTSTART;TZID=Europe/Amsterdam:20260922T200000

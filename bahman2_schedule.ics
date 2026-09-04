@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VC Geldrop Schedule Bahman 2//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VC Aalst 1 & VC Ledub 2 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20260930T193000
+DTEND;TZID=Europe/Amsterdam:20260930T220000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:00\nLocation: Sporthal 't Hazzo\, Prunellal
+ aan 7\, Aalst\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Sporthal 't Hazzo\, Prunellalaan 7\, Aalst
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs DKJO 1 & VC Ledub 2 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20261104T200000
+DTEND;TZID=Europe/Amsterdam:20261104T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Sportcomplex de Weijer\, Heer
+  van Scherpenzeelweg 22\, Mierlo\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Sportcomplex de Weijer\, Heer van Scherpenzeelweg 22\, Mierlo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VC Ledub 2 & MVC de Hangar 2 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20270106T200000
+DTEND;TZID=Europe/Amsterdam:20270106T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Zuiderpoort Budel\, Sportlaan
+  7\, Budel\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Zuiderpoort Budel\, Sportlaan 7\, Budel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VC Aalst 1 & Kneepads 2 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20270203T193000
+DTEND;TZID=Europe/Amsterdam:20270203T220000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:00\nLocation: Sporthal 't Hazzo\, Prunellal
+ aan 7\, Aalst\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Sporthal 't Hazzo\, Prunellalaan 7\, Aalst
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs Kneepads 2 & VC Ledub 2 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20270217T193000
+DTEND;TZID=Europe/Amsterdam:20270217T220000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:00\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VC Ledub 2 & VVC Best 1 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20270310T200000
+DTEND;TZID=Europe/Amsterdam:20270310T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Zuiderpoort Budel\, Sportlaan
+  7\, Budel\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Zuiderpoort Budel\, Sportlaan 7\, Budel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs Kneepads 2 & VV Tamar 3 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20270324T193000
+DTEND;TZID=Europe/Amsterdam:20270324T220000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:00\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs Kneepads 2 & VVC Best 1 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20270331T193000
+DTEND;TZID=Europe/Amsterdam:20270331T220000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:00\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VC Aalst 1 & VV Rooi 1 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20270407T193000
+DTEND;TZID=Europe/Amsterdam:20270407T220000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:00\nLocation: Sporthal 't Hazzo\, Prunellal
+ aan 7\, Aalst\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Sporthal 't Hazzo\, Prunellalaan 7\, Aalst
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABC Volleybal 3 vs Bahman 2
+DTSTART;TZID=Europe/Amsterdam:20260922T203000
+DTEND;TZID=Europe/Amsterdam:20260922T230000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 21:00\nLocation: Frits Philips Sporthal\, Avig
+ nonlaan 1\, Eindhoven\nMatch Type: Match\nRole: Playing
+LOCATION:Frits Philips Sporthal\, Avignonlaan 1\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs Nuvoc 4
+DTSTART;TZID=Europe/Amsterdam:20260929T200000
+DTEND;TZID=Europe/Amsterdam:20260929T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs PBF Volleybal 3
+DTSTART;TZID=Europe/Amsterdam:20261006T200000
+DTEND;TZID=Europe/Amsterdam:20261006T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Pieter Brueghel 1 vs Bahman 2
+DTSTART;TZID=Europe/Amsterdam:20261026T203000
+DTEND;TZID=Europe/Amsterdam:20261026T230000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 21:00\nLocation: Sporthal De Landing\, Rooijse
+ weg 3\, Son\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal De Landing\, Rooijseweg 3\, Son
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VC Primo 3
+DTSTART;TZID=Europe/Amsterdam:20261103T200000
+DTEND;TZID=Europe/Amsterdam:20261103T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Primo 4 vs Bahman 2
+DTSTART;TZID=Europe/Amsterdam:20261109T193000
+DTEND;TZID=Europe/Amsterdam:20261109T220000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:00\nLocation: Sporthal Genderbeemd\, Sterke
+ nburg 616\, Eindhoven\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal Genderbeemd\, Sterkenburg 616\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VCE/PSV 3
+DTSTART;TZID=Europe/Amsterdam:20261124T200000
+DTEND;TZID=Europe/Amsterdam:20261124T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCE/PSV 4 vs Bahman 2
+DTSTART;TZID=Europe/Amsterdam:20261203T203000
+DTEND;TZID=Europe/Amsterdam:20261203T230000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 21:00\nLocation: Fontys Sporthogeschool\, Theo
+  Koomenlaan 3\, Eindhoven\nMatch Type: Match\nRole: Playing
+LOCATION:Fontys Sporthogeschool\, Theo Koomenlaan 3\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VV Tamar 4 vs Bahman 2
+DTSTART;TZID=Europe/Amsterdam:20261209T193000
+DTEND;TZID=Europe/Amsterdam:20261209T220000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:00\nLocation: Tennishal Eindhoven Noord\, V
+ ijfkamplaan 10\, Eindhoven\nMatch Type: Match\nRole: Playing
+LOCATION:Tennishal Eindhoven Noord\, Vijfkamplaan 10\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs ABC Volleybal 3
+DTSTART;TZID=Europe/Amsterdam:20270105T200000
+DTEND;TZID=Europe/Amsterdam:20270105T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nuvoc 4 vs Bahman 2
+DTSTART;TZID=Europe/Amsterdam:20270120T190000
+DTEND;TZID=Europe/Amsterdam:20270120T213000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 19:30\nLocation: Nuvoc Hal\, Korze 80\, Veldho
+ ven\nMatch Type: Match\nRole: Playing
+LOCATION:Nuvoc Hal\, Korze 80\, Veldhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PBF Volleybal 3 vs Bahman 2
+DTSTART;TZID=Europe/Amsterdam:20270202T203000
+DTEND;TZID=Europe/Amsterdam:20270202T230000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 21:00\nLocation: Sporthal Tivoli\, Geert Groot
+ estraat 72\, Eindhoven\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal Tivoli\, Geert Grootestraat 72\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VC Pieter Brueghel 1
+DTSTART;TZID=Europe/Amsterdam:20270216T200000
+DTEND;TZID=Europe/Amsterdam:20270216T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VC Primo 3 vs Bahman 2
+DTSTART;TZID=Europe/Amsterdam:20270301T193000
+DTEND;TZID=Europe/Amsterdam:20270301T220000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:00\nLocation: Sporthal Genderbeemd\, Sterke
+ nburg 616\, Eindhoven\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal Genderbeemd\, Sterkenburg 616\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VC Primo 4
+DTSTART;TZID=Europe/Amsterdam:20270309T200000
+DTEND;TZID=Europe/Amsterdam:20270309T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VCE/PSV 3 vs Bahman 2
+DTSTART;TZID=Europe/Amsterdam:20270318T203000
+DTEND;TZID=Europe/Amsterdam:20270318T230000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 21:00\nLocation: Fontys Sporthogeschool\, Theo
+  Koomenlaan 3\, Eindhoven\nMatch Type: Match\nRole: Playing
+LOCATION:Fontys Sporthogeschool\, Theo Koomenlaan 3\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VCE/PSV 4
+DTSTART;TZID=Europe/Amsterdam:20270323T200000
+DTEND;TZID=Europe/Amsterdam:20270323T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VV Tamar 4
+DTSTART;TZID=Europe/Amsterdam:20270330T200000
+DTEND;TZID=Europe/Amsterdam:20270330T223000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
+ t 3\, Waalre\nMatch Type: Match\nRole: Playing
+LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+END:VCALENDAR
