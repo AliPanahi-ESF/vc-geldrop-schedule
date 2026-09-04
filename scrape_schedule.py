@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
+from icalendar import Calendar, Event
 from datetime import datetime, timedelta
 import pytz
-import csv
 
 # Target team name (Ensure this matches the website exactly)
 TARGET_TEAM = "Bahman 4"
@@ -18,10 +18,11 @@ MONTHS = {
 }
 
 tz = pytz.timezone('Europe/Amsterdam')
+cal = Calendar()
+cal.add('prodid', '-//VC Geldrop Schedule//mxm.dk//')
+cal.add('version', '2.0')
 
 print(f"Fetching schedule for {TARGET_TEAM}...")
-
-events = []
 
 for poule in POULES:
     response = requests.get(BASE_URL, params={'entry': 'speeldata', 'poule': poule})
@@ -53,12 +54,14 @@ for poule in POULES:
         sporthal = cols[5].get_text(separator=', ', strip=True).replace(', ,', ',')
         
         # Determine event type
-        if TARGET_TEAM in thuis:
-            match_type = "Home"
-        elif TARGET_TEAM in gast:
-            match_type = "Away"
+        if TARGET_TEAM in thuis or TARGET_TEAM in gast:
+            event_title = f"{thuis} vs {gast}"
+            role = "play"
+            match_type = "Match"
         elif TARGET_TEAM in scheids:
-            match_type = "Referee" # fallback to their spelling if needed, but 'Referee' is standard
+            event_title = f"{thuis} vs {gast} (Referee)"
+            role = "referee"
+            match_type = "Event"
         else:
             continue
             
@@ -77,45 +80,26 @@ for poule in POULES:
             arrival_time = match_start - timedelta(minutes=30)
             match_end = match_start + timedelta(hours=2)
             
-            # Format dates and times for the CSV
-            start_date_str = match_start.strftime("%d/%m/%Y")
-            start_time_str = match_start.strftime("%H:%M")
-            meet_up_str = arrival_time.strftime("%H:%M")
-            end_date_str = match_end.strftime("%d/%m/%Y")
-            end_time_str = match_end.strftime("%H:%M")
+            # Create iCalendar Event
+            event = Event()
+            event.add('summary', event_title)
+            event.add('dtstart', arrival_time)
+            event.add('dtend', match_end)
+            event.add('location', sporthal)
+            event.add('description', f"Match starts at {tijd}\nLocation: {sporthal}\nMatch Type: {match_type}\nRole: {'Playing' if role == 'play' else 'Referee Duty'}")
             
-            # Simple description
-            desc = "Referee Duty" if match_type == "Referee" else "League Match"
+            # Add category to help Spond parse the match type
+            event.add('categories', [match_type])
             
-            events.append({
-                "Start date*": start_date_str,
-                "Start time": start_time_str,
-                "Meet up": meet_up_str,
-                "End date": end_date_str,
-                "End time": end_time_str,
-                "Match Type*": match_type,
-                "Home Team*": thuis,
-                "Away Team*": gast,
-                "Description": desc,
-                "Place": sporthal
-            })
-            
-            print(f"Added event: {thuis} vs {gast} on {start_date_str} at {start_time_str}")
+            cal.add_component(event)
+            print(f"Added event: {event_title} on {date_str} at {tijd}")
             
         except Exception as e:
             print(f"Failed to parse row: {date_str} {tijd} | Error: {e}")
 
-# Write to CSV file
-output_file = 'bahman4_schedule.csv'
-headers = [
-    "Start date*", "Start time", "Meet up", "End date", "End time",
-    "Match Type*", "Home Team*", "Away Team*", "Description", "Place"
-]
-
-with open(output_file, 'w', newline='', encoding='utf-8') as f:
-    writer = csv.DictWriter(f, fieldnames=headers)
-    writer.writeheader()
-    for e in events:
-        writer.writerow(e)
+# Write to file
+output_file = 'bahman4_schedule.ics'
+with open(output_file, 'wb') as f:
+    f.write(cal.to_ical())
 
 print(f"Successfully generated {output_file}")
