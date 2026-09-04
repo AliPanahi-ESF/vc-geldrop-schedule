@@ -55,10 +55,10 @@ for poule in POULES:
         
         # Determine event type
         if TARGET_TEAM in thuis or TARGET_TEAM in gast:
-            event_title = f"Match: {thuis} vs {gast}"
+            event_title = f"{thuis} vs {gast}"
             role = "play"
         elif TARGET_TEAM in scheids:
-            event_title = f"Referee Duty: {thuis} vs {gast}"
+            event_title = f"{thuis} vs {gast} (Referee)"
             role = "referee"
         else:
             continue
