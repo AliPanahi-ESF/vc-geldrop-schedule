@@ -2,49 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//VC Geldrop Schedule Bahman 2//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:Bahman 2 vs VC Aalst 1 & VC Ledub 2 (Referee)
-DTSTART;TZID=Europe/Amsterdam:20260930T193000
-DTEND;TZID=Europe/Amsterdam:20260930T220000
+SUMMARY:Bahman 2 vs MVC de Hangar 2 & VV Tamar 3 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20261126T203000
+DTEND;TZID=Europe/Amsterdam:20261126T230000
 CATEGORIES:Match
-DESCRIPTION:Match starts at 20:00\nLocation: Sporthal 't Hazzo\, Prunellal
- aan 7\, Aalst\nMatch Type: Match\nRole: Referee Duty
-LOCATION:Sporthal 't Hazzo\, Prunellalaan 7\, Aalst
+DESCRIPTION:Match starts at 21:00\nLocation: Sporthal Meerrijk de Hangar\,
+  Meerbos 4\, Eindhoven\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Sporthal Meerrijk de Hangar\, Meerbos 4\, Eindhoven
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bahman 2 vs DKJO 1 & VC Ledub 2 (Referee)
-DTSTART;TZID=Europe/Amsterdam:20261104T200000
-DTEND;TZID=Europe/Amsterdam:20261104T223000
+SUMMARY:Bahman 2 vs MVC de Hangar 2 & VC Pegasus 1 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20261210T203000
+DTEND;TZID=Europe/Amsterdam:20261210T230000
 CATEGORIES:Match
-DESCRIPTION:Match starts at 20:30\nLocation: Sportcomplex de Weijer\, Heer
-  van Scherpenzeelweg 22\, Mierlo\nMatch Type: Match\nRole: Referee Duty
-LOCATION:Sportcomplex de Weijer\, Heer van Scherpenzeelweg 22\, Mierlo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bahman 2 vs VC Ledub 2 & MVC de Hangar 2 (Referee)
-DTSTART;TZID=Europe/Amsterdam:20270106T200000
-DTEND;TZID=Europe/Amsterdam:20270106T223000
-CATEGORIES:Match
-DESCRIPTION:Match starts at 20:30\nLocation: Zuiderpoort Budel\, Sportlaan
-  7\, Budel\nMatch Type: Match\nRole: Referee Duty
-LOCATION:Zuiderpoort Budel\, Sportlaan 7\, Budel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bahman 2 vs VC Aalst 1 & Kneepads 2 (Referee)
-DTSTART;TZID=Europe/Amsterdam:20270203T193000
-DTEND;TZID=Europe/Amsterdam:20270203T220000
-CATEGORIES:Match
-DESCRIPTION:Match starts at 20:00\nLocation: Sporthal 't Hazzo\, Prunellal
- aan 7\, Aalst\nMatch Type: Match\nRole: Referee Duty
-LOCATION:Sporthal 't Hazzo\, Prunellalaan 7\, Aalst
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bahman 2 vs Kneepads 2 & VC Ledub 2 (Referee)
-DTSTART;TZID=Europe/Amsterdam:20270217T193000
-DTEND;TZID=Europe/Amsterdam:20270217T220000
-CATEGORIES:Match
-DESCRIPTION:Match starts at 20:00\nLocation: Sporthal De Pracht\, De Prach
- t 3\, Waalre\nMatch Type: Match\nRole: Referee Duty
-LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+DESCRIPTION:Match starts at 21:00\nLocation: Sporthal Meerrijk de Hangar\,
+  Meerbos 4\, Eindhoven\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Sporthal Meerrijk de Hangar\, Meerbos 4\, Eindhoven
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bahman 2 vs VC Ledub 2 & VVC Best 1 (Referee)
@@ -92,6 +65,15 @@ DESCRIPTION:Match starts at 21:00\nLocation: Frits Philips Sporthal\, Avig
 LOCATION:Frits Philips Sporthal\, Avignonlaan 1\, Eindhoven
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VCE/PSV 4 & VV Tamar 4 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20260924T203000
+DTEND;TZID=Europe/Amsterdam:20260924T230000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 21:00\nLocation: Fontys Sporthogeschool\, Theo
+  Koomenlaan 3\, Eindhoven\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Fontys Sporthogeschool\, Theo Koomenlaan 3\, Eindhoven
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bahman 2 vs Nuvoc 4
 DTSTART;TZID=Europe/Amsterdam:20260929T200000
 DTEND;TZID=Europe/Amsterdam:20260929T223000
@@ -108,6 +90,15 @@ CATEGORIES:Match
 DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
  t 3\, Waalre\nMatch Type: Match\nRole: Playing
 LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VCE/PSV 4 & VC Pieter Brueghel 1 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20261008T203000
+DTEND;TZID=Europe/Amsterdam:20261008T230000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 21:00\nLocation: Fontys Sporthogeschool\, Theo
+  Koomenlaan 3\, Eindhoven\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Fontys Sporthogeschool\, Theo Koomenlaan 3\, Eindhoven
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VC Pieter Brueghel 1 vs Bahman 2
@@ -198,6 +189,15 @@ CATEGORIES:Match
 DESCRIPTION:Match starts at 20:30\nLocation: Sporthal De Pracht\, De Prach
  t 3\, Waalre\nMatch Type: Match\nRole: Playing
 LOCATION:Sporthal De Pracht\, De Pracht 3\, Waalre
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bahman 2 vs VCE/PSV 4 & VC Primo 4 (Referee)
+DTSTART;TZID=Europe/Amsterdam:20270218T203000
+DTEND;TZID=Europe/Amsterdam:20270218T230000
+CATEGORIES:Match
+DESCRIPTION:Match starts at 21:00\nLocation: Fontys Sporthogeschool\, Theo
+  Koomenlaan 3\, Eindhoven\nMatch Type: Match\nRole: Referee Duty
+LOCATION:Fontys Sporthogeschool\, Theo Koomenlaan 3\, Eindhoven
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VC Primo 3 vs Bahman 2
